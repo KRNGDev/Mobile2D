@@ -142,7 +142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fuegoPrefab: {fileID: 2645686899253931418, guid: e07e7f0d4f267524481c757ef232dcaf, type: 3}
   puntoDisparo: {fileID: 1465623373}
-  fuerzaDisparo: 10
+  fuerzaDisparo: 100
   incrementoAltitud: 0.25
   sonidoDisparo: {fileID: 8300000, guid: 34f784f14c4d6474c8c978c9e920312e, type: 3}
 --- !u!1 &519420028
