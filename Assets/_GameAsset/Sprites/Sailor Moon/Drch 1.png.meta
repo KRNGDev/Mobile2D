@@ -1,0 +1,4606 @@
+fileFormatVersion: 2
+guid: 905e3fd57797e1947ae2ff2b8ad9abd9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drch_0
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1034
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713283e7577e03d4493e43400076774b
+      internalID: -764749654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1034
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7679740fcccae41b462bce838effce
+      internalID: 865820540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 990
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e3f2fc26abf6d4680de09b0b8d2dcd
+      internalID: 1507318396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1034
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868696056bb85114280be77972792350
+      internalID: -332978893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 990
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe327289e143108489c3e26eb8461514
+      internalID: 1165325958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 990
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15d4b82af053848bfbffe2963bc39b
+      internalID: -1279405697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 990
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ef7222842e5d4395de65b5ea99273
+      internalID: 712769983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 990
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7586f66a552de4f8653501d28fc2d9
+      internalID: 1310313894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 990
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c9e546fe2dc646a94d9190dcaf24d
+      internalID: 801461877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 990
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ebce3b82303bf4db5b4dc19e0cc797
+      internalID: 1543241354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 990
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2589ed31e3e09ae45803c35c5230c6c9
+      internalID: 1942679336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 990
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e4b89f2ec8974688a0ac4bc2c2f54
+      internalID: 500061596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 990
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f9c199467ac284183a945134ced30d
+      internalID: -304978042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 990
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aef4ade16f9ef4fae1046af1620b6c
+      internalID: 1935474342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 990
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692b9e4e614e22849b4c9b5e6ae8b54c
+      internalID: -450711749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_15
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 990
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009b306f2459bb148a3bc38a84649147
+      internalID: -1995432446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 947
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90f13b29408e744bbc757902a71c790
+      internalID: 1580347971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 947
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aebece1d752b64e890a453f511bd02
+      internalID: 1965510438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 947
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8580a17f9b30326488b2e684874b024f
+      internalID: 1593406201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 947
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ccf311617b2de4586b63d9e77f89e0
+      internalID: 1468602539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 947
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0172e1bb78b9409b5c9b5a176b128
+      internalID: 495454793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 947
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d69b2612fcbb74daa9067ddd53b2de
+      internalID: 832984270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 947
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba4dbc1fc5e70448dcf2bbd8acb17c
+      internalID: -639656168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 904
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6025c80eb6dcb4cb41e727a2d9b977
+      internalID: -876817332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 904
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fed8705a1cd4649854e7c621dce9a2
+      internalID: -2110869297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 904
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e4d54b28374a846adb33ca003c3861
+      internalID: 1800738483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 904
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aab8045f2f90a4d9ee771f0fe7a1dd
+      internalID: -1029422943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 860
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf181e7db5ed2b4295aac54b602dc68
+      internalID: 329442777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_28
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 860
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6293ade853d97ff40acf308f7a2c46c0
+      internalID: -836502508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 817
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2644e9b5d392c714cb607fed87a58aba
+      internalID: 2130599427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 817
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af68898ef040b4baaf175ec98898f0
+      internalID: 1154489133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 817
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2d2becfdea4047aab87bb3fcae648
+      internalID: 1743184231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 817
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03666dad203f7ae49acd8c1e1b1e3369
+      internalID: 1017135414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 817
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013302c0a7297749801a5a8711ae7d8
+      internalID: -2122217728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 817
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2dba6b196e8d3488d3452c89f87569
+      internalID: -1419477585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 807
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b441e7809538ff44a479090383d211b
+      internalID: 2016472432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_36
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 807
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bf3121c59a3ee43889db325a4f9d6f
+      internalID: 984280536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 807
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae606e6b833d1874285c0ab9e749fefb
+      internalID: 1197868846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_38
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 807
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467dd192d393ac14a95592a769c2ad0d
+      internalID: -1433387307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 807
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58c8ae6aaf7f94bae590528f985bf6
+      internalID: -156437634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 807
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63497d9b801d05145891ce7cdf1292f5
+      internalID: -780697854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 807
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6022fb2dcbce80e4dba7703833e737fa
+      internalID: 753295672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_42
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 807
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4417cc8fb2f24eb7f5391e04302b6
+      internalID: -1404757204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 807
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26615eb01a39fe04cb210318d1fb1808
+      internalID: 1186950874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_44
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 807
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77da16b63b270443956aec93aeaa520
+      internalID: 1200797001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_45
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 807
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb81611e097d8848b27ac9d01458204
+      internalID: -688163001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 763
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0ff2c28ed09041a2957ad9a15df80
+      internalID: 1200985370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 763
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1205fdad292f8b24dbb3a8bc86ba5189
+      internalID: 1198279006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 763
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657ad8e27c3e2bb4098947d57463dd14
+      internalID: -831623146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_49
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 763
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e98b2bad31d464dbad5fdcab461238
+      internalID: -1601375238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_50
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 763
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5a9a3ac911c794f965f223124f740f
+      internalID: -1298877181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 763
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13606c9c861808149966aad4e8aa2fdf
+      internalID: 1913249126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_52
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 763
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed02de5bff7249243ba2503c6e258f8b
+      internalID: 198473400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 763
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15f1ab55a7319143ae010eb5713082c
+      internalID: 1220139883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 763
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b97edfc08d3c0d42b07df361c0d0d91
+      internalID: -1925574095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 763
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd05aae567d1641b05be3dac61c5e3
+      internalID: 1759711025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_56
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 763
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf261ee2ae1bac47a61a42f0d7e667a
+      internalID: 1010662406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 720
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812a2c9c90ee27d4386a3e58bf07fc48
+      internalID: 1863199133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7b4b803498c34b98e1da130bd380b
+      internalID: -68856407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_59
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 720
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9a51bb10a0c1479169ff0af6ced0d
+      internalID: -1901232569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b05f676a2ddd1f418ab66ac8333bd4b
+      internalID: -1178712962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_61
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 720
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e465ffb1e0f079840bb6d5fa26b53e64
+      internalID: 542216042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 720
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289feccd064912c44aeda8dc781c1e14
+      internalID: 96129177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 720
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc1941fd366014c9a2d15003d0e451
+      internalID: -1569909226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 720
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9cea633ffcfe4dae4b80d1d635212
+      internalID: -5486113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 720
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522bfc6b684488644a50d435718ad7e1
+      internalID: 795460228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_66
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 720
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdd5610e9edc8e4ea1256b304385efc
+      internalID: -1471700964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_67
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 720
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73253d2b82fbc594c85725d90fd389cb
+      internalID: 1267888383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 720
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182494d209ec3e84dbf35bf81f151f44
+      internalID: 435613189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 720
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68247aaf4597744986f44f7fbefacdd
+      internalID: -615321089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 673
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d3f8d9ef42c7445942e33bf6824aa1
+      internalID: 152681669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 673
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4763f47aa3e934e9ee8ccfc7a1d5aa
+      internalID: 1951076499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 673
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae66d9c97ab0c54cb29f4e5b0495af5
+      internalID: 1128362968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 673
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea74259e83962541b84b5fc3a4fbf4c
+      internalID: 716323600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 673
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d62f2f5ff3a03c47bf46c3177df6826
+      internalID: 731936601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_75
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 673
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09451bf47b02e4e812a8140383239b
+      internalID: 1620319517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 673
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20101e28b39680240aae4561c5256c61
+      internalID: -1628522763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 673
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b17e54f59de144dacb6606a7776db7
+      internalID: 572134848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_78
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 673
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555dbbd6749880e42ab63dfa8f203b2e
+      internalID: -374399500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 673
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d961c94229af3446a519688d079a9ba
+      internalID: -2096700422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 673
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620da036d7b81ac49aa2e5b7eff47577
+      internalID: -751817672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_81
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 673
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123317e92c3ebad4c8feca80dd5ffd8f
+      internalID: -131570370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_82
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 673
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31709d287217a47af974e01aca1a0a
+      internalID: 1698395915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_83
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 626
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6a69ee0fbc12b448d73d9863a41e7c
+      internalID: -1224620472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_84
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 626
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea2ed9682af364dba592c4530c9de6
+      internalID: 561259435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 626
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5a395a27378e4abefedd848c0d569
+      internalID: -616156346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 626
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9658396f9864dff4cb073d02c80169e9
+      internalID: -1884734628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 626
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e07f0bef8bdbb49ba89984b5055dc5
+      internalID: 1374749712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_88
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 626
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f711221dac5e88428e9ae2981cf1977
+      internalID: 968268520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 626
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb15e16e02228449aaa5acf4774f85
+      internalID: -1794884781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 626
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7df05be2b79046a5947bc99b07419
+      internalID: -1379734614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_91
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 626
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32c595c38871ca46b260fabdb2e6c42
+      internalID: -1342830413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_92
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 626
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c456ea9047eeb4c8d7d9534e8fbf35
+      internalID: -979029513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 626
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66cdfa6f2a790a4caea2302515590a9
+      internalID: -1924695148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_94
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 626
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d35598f328b6f4aa1f1c8ea5e15fc5
+      internalID: -1024817386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 583
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059a7da98db2e514784289c40f7ab258
+      internalID: -1259500397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 583
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6da4f78118fb6544ab449c03ca6ce72
+      internalID: -783747958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_97
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 583
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e08543f18c324791cbdfcb15bbe3a
+      internalID: 629266502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_98
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 583
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5333bc9a226aa7e439b04aa2b5512914
+      internalID: -1617754673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 540
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fafaf42ba1adf4f90a1ba1a9c8a1bb
+      internalID: 1381577731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_100
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 540
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a3a3fdca492f49a8e16b331c790d2
+      internalID: -552393884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_101
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 540
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f35128f85741414fb662f7df944d028
+      internalID: 763153410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_102
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 540
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0213cf62ec5c24429429f35ac5e5146
+      internalID: -1889625479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_103
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 540
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6cfeaf46f8b624db84da9857f3de5d
+      internalID: 1061864390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_104
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 488
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077575669d2274d4c91a794dd936f587
+      internalID: -1648016984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_105
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 488
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d85ecb244a41e41936c5cb31bdc93e
+      internalID: 70423802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_106
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 488
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f509c3adaa9e42bd5d4ba276238d9
+      internalID: -1532088660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 488
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c3cb95e075a044859b5375da1b7ce
+      internalID: -2111999612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_108
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 488
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb55115091078a54988fad8518dedb08
+      internalID: 1728909998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_109
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 488
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de52db5c860d7c4980168b8499561d8
+      internalID: 476092345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 488
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b5f6352195314281135cdb32bcf62
+      internalID: -636459204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_111
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 488
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11f63378924ca14cb7e5129d7f705a4
+      internalID: -173280635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 488
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f19c57722c6de4fbe7580b516a234e
+      internalID: 16887358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_113
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 488
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe659e499b978d44bd7a3b3f292290e
+      internalID: 934204080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_114
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 478
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9196de28c35c24eabc4e3a9b276177
+      internalID: 1686969043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_115
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 478
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8213d08779af1c4896948c6c35ce4bc
+      internalID: 290285488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_116
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 478
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383ef783cd51c8d46aa4e00791500fed
+      internalID: 1534085724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_117
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 478
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199797bc413393f4a9d3d213faa5fdef
+      internalID: -37049780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_118
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 478
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2f58780d4212c4fbbd0f7f1871dbce
+      internalID: -1441395987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_119
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 478
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2178e5af6d3c749a5f05b3d42b4f3b
+      internalID: -205619129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_120
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 478
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160a3fa4e16048244aa0d6ae3f21d96d
+      internalID: -1817046492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_121
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 478
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a428a9f225e29f4aa6bbef13b70ee36
+      internalID: -1041093157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_122
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 434
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6641c303ed936c0429d519dfd962fe27
+      internalID: 1940068263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 434
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14a227d7d289145a2fc961f5a1c030
+      internalID: -1185783098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_124
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 434
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0530f17edf41e41a099b5e89c69c95
+      internalID: 18793429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_125
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 434
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d90db75b92f2c4d8b59a281776acf0
+      internalID: 275365474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 434
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a6635d16d713e4986f4bfd729efd62
+      internalID: -1410193132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_127
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 434
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df072c85790254eb6c5b84bf5980d9
+      internalID: -401476926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_128
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 434
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b861f9320ba999e4e9867d162db79a17
+      internalID: 1686649371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_129
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 434
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91613cc4d14e89246a97d39a2c56a30e
+      internalID: -399943420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 434
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad6164d7fb0ff24c9ab2fe4911c8ecb
+      internalID: -1431542168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_131
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 434
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4905194f11ee314382df516b4776966
+      internalID: -1589862215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_132
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 434
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76eb217e7fd6b4c92c49700765d480
+      internalID: -1681057096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_133
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 434
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c541f115c45ebbb4997ff1ccb259be8f
+      internalID: -1745663474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_134
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 434
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76fab707f15495428fbca350aa7057d
+      internalID: 678735091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_135
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 391
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53feda50964a7cf4383ca2d6bd000395
+      internalID: 636892132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_136
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 391
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5ef51cb6d0a4449adb8d65a8eff42
+      internalID: 2145354239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_137
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 391
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce06fba368cb644d8510c30d38a274a
+      internalID: 317902311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_138
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 391
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447a8e36315d4884c9b83dc8b2033e12
+      internalID: 1007179600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_139
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 391
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ca49ca9fd0010409bdcb164e811605
+      internalID: -1896666438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_140
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 391
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad8f3e35736c1f47856bbc2a46874fa
+      internalID: -497155648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_141
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 391
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7202270e5e4d76c4cbe0482792f8b8ee
+      internalID: -1949214629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_142
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 391
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e01326d06c382e4ca4685ae2e2837b5
+      internalID: 590282531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 391
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1601d28a9dc384e92d99f2d64540f6
+      internalID: 1221806263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_144
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427da7ff5300044449d1e3b29adf84b5
+      internalID: 587052812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_145
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 381
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54026c33182d14c44834f95ebc7e31c7
+      internalID: 1774881279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_146
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ccc45f7a5420346a055bd4285d13df
+      internalID: 449810657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_147
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 381
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38a5161f1ea1984f871727687363b3d
+      internalID: -1733117329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_148
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cc0865d94014f4fa6ae33b44861598
+      internalID: 1731799417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_149
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc7610b3dfe52d4eb02d535f5c7033f
+      internalID: 1408253719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_150
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 380
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a4a6b14653e34bbb3f65873b5f2ef
+      internalID: 2058053484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_151
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39df9fb683ffbe4495390ace8ccaa68
+      internalID: 19593744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 381
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736f520a3a2c614587bd1475baedc7a
+      internalID: -1264404433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_153
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 381
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a2c522d5abca4fb617aa36ba94196
+      internalID: 1963308850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_154
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d77dab3c3c6f946902e9aca398e9c8
+      internalID: 2059536679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 381
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4f3a3deee06aa42926dfb46cca19f7
+      internalID: -1216326326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_156
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 381
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a13c9c67132d04f9bb1c82b5a0af94
+      internalID: -109644192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_157
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 381
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a1ad063e84a5d4e81cbe6585cf920d
+      internalID: -217563048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_158
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 381
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98f51d8d09a7c46a7e4254e60b72d1
+      internalID: 1056089528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_159
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 381
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f0438087fd3d74485f3c6f6c8ab864
+      internalID: -1780696578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_160
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 381
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697ab1c847ae0b448f3f6442a1d852d
+      internalID: -515072577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_161
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 381
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4269cd9b1b164eb1b25c121b9c691
+      internalID: -1207799159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_162
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 381
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb1d06ce74ecd489b46601c8973a4a
+      internalID: -431628272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_163
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 337
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a8f41605723140b2199018ffde63b
+      internalID: 1143880836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_164
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 337
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb79e478aeeb4a4abe607be43cc6fed
+      internalID: 1406533109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_165
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 337
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa588035fe8df429014e4c7c74565f
+      internalID: 787352693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_166
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 294
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3b8f80383fbf4f92ca43c56bab7c1
+      internalID: -1090134234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_167
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 294
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8e1c095309ccf41a7da8662f1e4f12
+      internalID: 1295940186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_168
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 250
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902fdafdeca6da43b61bd349eca3319
+      internalID: -2030251825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_169
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 250
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa3b66b92433c41b2b7d264f937cff
+      internalID: -1676520974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_170
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 250
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163dbf8fa81a04d46b0c6e8981e28973
+      internalID: 1910356657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_171
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d70801edee24d429a1bc7efeb7f737
+      internalID: 685650503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_172
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 240
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f54ee4df28164395c05dd45a7937e
+      internalID: 643970854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_173
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a05faf6d392d42b7a1bf956909d12
+      internalID: 1501779523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_174
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 171
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407f27310bb19e45a069b0625d9691c
+      internalID: -2055820738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_175
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 171
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b86c2a0aadc6cd43929670075b03abb
+      internalID: -1123705721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_176
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 161
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3105bb945a354ca453e4b6bf491bf
+      internalID: 1013100535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_177
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 161
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759be4aab69b9d742aeab2fff48bbfc6
+      internalID: -264846603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_178
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 161
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf968a5f8a458418055b70d85acb63
+      internalID: -524181312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_179
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 161
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c666991c22c62c48a43ae3dfc883556
+      internalID: -1896622860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_180
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486d4f7de528894aa3e0e7e8270eed6
+      internalID: 70634565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_181
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 91
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952832bd0ad5ad46979ab8b96e9cd0e
+      internalID: 1806060089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_182
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 91
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b31e573f6b8cd4e946d04f8b75a6c6
+      internalID: -1117337450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_183
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44bf1b18bd7455499bde1e41770ee7d
+      internalID: 955666143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_184
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 91
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eff069eae8a194cbc2cde166dc1de6
+      internalID: -204663075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 91
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477ca54187745c4699c601bb2562e44
+      internalID: 1432097077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_186
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 91
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98217dbb8190fb94ca0a975be902fbca
+      internalID: -2008161409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_187
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 91
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125c657d211cec040b04d8dd7014796e
+      internalID: 766652320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_188
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 91
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa321dc9047c9c448ceb7b6be9362a9
+      internalID: 1228482461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_189
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 97
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d9be5d45d81da4293f13d124dcb2a9
+      internalID: 54720777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_190
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec135ea9a63129146a158aa3c7ef2c72
+      internalID: -445681090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_191
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 91
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a5fe43e94bc734aa4d6462b427124b
+      internalID: -701255764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_192
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 101
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce135a1227d30de43a2bdab6c58dd9ff
+      internalID: -1544847283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_193
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 91
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a52449f857a149bddbbef8098c60f
+      internalID: -973371790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_194
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba6d95fd2195504e8e734ebdbdc20f7
+      internalID: 1006116866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_195
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 94
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9914960db2a954a8defd60c63c84b1
+      internalID: -1993949226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_196
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 91
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1590e3e26e3045a23d1be7eab8069
+      internalID: -79946600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0113c9af5fd57498059f7b679be575
+      internalID: 534731248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_198
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b20bf8a30a049f46b0be800a886624d
+      internalID: -315840742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_199
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fbecdba47ae0340b06b8a2ed1e15b3
+      internalID: 783730090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_200
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0151e5cc77da46e47851f35a4dd7b547
+      internalID: 1382447768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_201
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b3b504824a93344bbbb1f52b22d399
+      internalID: 1170158919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drch_202
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18302d03b09d5c0479c1fc3f2efbb76e
+      internalID: 1365168231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Drch_0: -764749654
+      Drch_1: 865820540
+      Drch_10: 1942679336
+      Drch_100: -552393884
+      Drch_101: 763153410
+      Drch_102: -1889625479
+      Drch_103: 1061864390
+      Drch_104: -1648016984
+      Drch_105: 70423802
+      Drch_106: -1532088660
+      Drch_107: -2111999612
+      Drch_108: 1728909998
+      Drch_109: 476092345
+      Drch_11: 500061596
+      Drch_110: -636459204
+      Drch_111: -173280635
+      Drch_112: 16887358
+      Drch_113: 934204080
+      Drch_114: 1686969043
+      Drch_115: 290285488
+      Drch_116: 1534085724
+      Drch_117: -37049780
+      Drch_118: -1441395987
+      Drch_119: -205619129
+      Drch_12: -304978042
+      Drch_120: -1817046492
+      Drch_121: -1041093157
+      Drch_122: 1940068263
+      Drch_123: -1185783098
+      Drch_124: 18793429
+      Drch_125: 275365474
+      Drch_126: -1410193132
+      Drch_127: -401476926
+      Drch_128: 1686649371
+      Drch_129: -399943420
+      Drch_13: 1935474342
+      Drch_130: -1431542168
+      Drch_131: -1589862215
+      Drch_132: -1681057096
+      Drch_133: -1745663474
+      Drch_134: 678735091
+      Drch_135: 636892132
+      Drch_136: 2145354239
+      Drch_137: 317902311
+      Drch_138: 1007179600
+      Drch_139: -1896666438
+      Drch_14: -450711749
+      Drch_140: -497155648
+      Drch_141: -1949214629
+      Drch_142: 590282531
+      Drch_143: 1221806263
+      Drch_144: 587052812
+      Drch_145: 1774881279
+      Drch_146: 449810657
+      Drch_147: -1733117329
+      Drch_148: 1731799417
+      Drch_149: 1408253719
+      Drch_15: -1995432446
+      Drch_150: 2058053484
+      Drch_151: 19593744
+      Drch_152: -1264404433
+      Drch_153: 1963308850
+      Drch_154: 2059536679
+      Drch_155: -1216326326
+      Drch_156: -109644192
+      Drch_157: -217563048
+      Drch_158: 1056089528
+      Drch_159: -1780696578
+      Drch_16: 1580347971
+      Drch_160: -515072577
+      Drch_161: -1207799159
+      Drch_162: -431628272
+      Drch_163: 1143880836
+      Drch_164: 1406533109
+      Drch_165: 787352693
+      Drch_166: -1090134234
+      Drch_167: 1295940186
+      Drch_168: -2030251825
+      Drch_169: -1676520974
+      Drch_17: 1965510438
+      Drch_170: 1910356657
+      Drch_171: 685650503
+      Drch_172: 643970854
+      Drch_173: 1501779523
+      Drch_174: -2055820738
+      Drch_175: -1123705721
+      Drch_176: 1013100535
+      Drch_177: -264846603
+      Drch_178: -524181312
+      Drch_179: -1896622860
+      Drch_18: 1593406201
+      Drch_180: 70634565
+      Drch_181: 1806060089
+      Drch_182: -1117337450
+      Drch_183: 955666143
+      Drch_184: -204663075
+      Drch_185: 1432097077
+      Drch_186: -2008161409
+      Drch_187: 766652320
+      Drch_188: 1228482461
+      Drch_189: 54720777
+      Drch_19: 1468602539
+      Drch_190: -445681090
+      Drch_191: -701255764
+      Drch_192: -1544847283
+      Drch_193: -973371790
+      Drch_194: 1006116866
+      Drch_195: -1993949226
+      Drch_196: -79946600
+      Drch_197: 534731248
+      Drch_198: -315840742
+      Drch_199: 783730090
+      Drch_2: 1507318396
+      Drch_20: 495454793
+      Drch_200: 1382447768
+      Drch_201: 1170158919
+      Drch_202: 1365168231
+      Drch_21: 832984270
+      Drch_22: -639656168
+      Drch_23: -876817332
+      Drch_24: -2110869297
+      Drch_25: 1800738483
+      Drch_26: -1029422943
+      Drch_27: 329442777
+      Drch_28: -836502508
+      Drch_29: 2130599427
+      Drch_3: -332978893
+      Drch_30: 1154489133
+      Drch_31: 1743184231
+      Drch_32: 1017135414
+      Drch_33: -2122217728
+      Drch_34: -1419477585
+      Drch_35: 2016472432
+      Drch_36: 984280536
+      Drch_37: 1197868846
+      Drch_38: -1433387307
+      Drch_39: -156437634
+      Drch_4: 1165325958
+      Drch_40: -780697854
+      Drch_41: 753295672
+      Drch_42: -1404757204
+      Drch_43: 1186950874
+      Drch_44: 1200797001
+      Drch_45: -688163001
+      Drch_46: 1200985370
+      Drch_47: 1198279006
+      Drch_48: -831623146
+      Drch_49: -1601375238
+      Drch_5: -1279405697
+      Drch_50: -1298877181
+      Drch_51: 1913249126
+      Drch_52: 198473400
+      Drch_53: 1220139883
+      Drch_54: -1925574095
+      Drch_55: 1759711025
+      Drch_56: 1010662406
+      Drch_57: 1863199133
+      Drch_58: -68856407
+      Drch_59: -1901232569
+      Drch_6: 712769983
+      Drch_60: -1178712962
+      Drch_61: 542216042
+      Drch_62: 96129177
+      Drch_63: -1569909226
+      Drch_64: -5486113
+      Drch_65: 795460228
+      Drch_66: -1471700964
+      Drch_67: 1267888383
+      Drch_68: 435613189
+      Drch_69: -615321089
+      Drch_7: 1310313894
+      Drch_70: 152681669
+      Drch_71: 1951076499
+      Drch_72: 1128362968
+      Drch_73: 716323600
+      Drch_74: 731936601
+      Drch_75: 1620319517
+      Drch_76: -1628522763
+      Drch_77: 572134848
+      Drch_78: -374399500
+      Drch_79: -2096700422
+      Drch_8: 801461877
+      Drch_80: -751817672
+      Drch_81: -131570370
+      Drch_82: 1698395915
+      Drch_83: -1224620472
+      Drch_84: 561259435
+      Drch_85: -616156346
+      Drch_86: -1884734628
+      Drch_87: 1374749712
+      Drch_88: 968268520
+      Drch_89: -1794884781
+      Drch_9: 1543241354
+      Drch_90: -1379734614
+      Drch_91: -1342830413
+      Drch_92: -979029513
+      Drch_93: -1924695148
+      Drch_94: -1024817386
+      Drch_95: -1259500397
+      Drch_96: -783747958
+      Drch_97: 629266502
+      Drch_98: -1617754673
+      Drch_99: 1381577731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
