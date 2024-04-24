@@ -14,9 +14,12 @@ public class RotadorPlayer : MonoBehaviour
 
     void Update()
     {
-        if (playerRB2D.velocity.x>0){
+        if (playerRB2D.velocity.x > 0.01)
+        {
             playerSR.flipX = false;
-        } else if (playerRB2D.velocity.x<0){
+        }
+        else if (playerRB2D.velocity.x < -0.01)
+        {
             playerSR.flipX = true;
         }
     }

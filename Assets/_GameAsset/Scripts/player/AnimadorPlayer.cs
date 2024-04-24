@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class AnimadorPlayer : MonoBehaviour
 {
+    // public Joystick joystick;
     float horizontal;
     Animator animator;
     private Rigidbody2D playerRB2D;
@@ -13,7 +14,7 @@ public class AnimadorPlayer : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         playerRB2D = GetComponent<Rigidbody2D>();
-        ki=GetComponent<Ki>();
+        ki = GetComponent<Ki>();
     }
 
     void Update()
@@ -46,7 +47,7 @@ public class AnimadorPlayer : MonoBehaviour
         {
             animator.SetBool("carga", false);
         }
-         if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKeyDown(KeyCode.F))
         {
             animator.SetBool("ki", true);
             ki.Disparo();

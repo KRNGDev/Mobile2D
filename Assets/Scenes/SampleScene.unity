@@ -123,6 +123,28 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &180748979 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6546779578891698087, guid: 1918be2c71aeb6742897a3ad806b53e2, type: 3}
+  m_PrefabInstance: {fileID: 1041982418874939933}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &180748989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180748979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e876701efffc5342a3390968bbe7e76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fuegoPrefab: {fileID: 2645686899253931418, guid: e07e7f0d4f267524481c757ef232dcaf, type: 3}
+  puntoDisparo: {fileID: 1465623373}
+  fuerzaDisparo: 10
+  incrementoAltitud: 0.25
+  sonidoDisparo: {fileID: 8300000, guid: 34f784f14c4d6474c8c978c9e920312e, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -282,8 +304,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e876701efffc5342a3390968bbe7e76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawner: {fileID: 2019298768}
   fuegoPrefab: {fileID: 2645686899253931418, guid: e07e7f0d4f267524481c757ef232dcaf, type: 3}
+  puntoDisparo: {fileID: 0}
+  fuerzaDisparo: 0
+  incrementoAltitud: 0.25
+  sonidoDisparo: {fileID: 0}
+--- !u!4 &1465623373 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4294089477125186520, guid: 1918be2c71aeb6742897a3ad806b53e2, type: 3}
+  m_PrefabInstance: {fileID: 1041982418874939933}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1588010488
 GameObject:
   m_ObjectHideFlags: 0
@@ -3201,7 +3231,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6546779578891698087, guid: 1918be2c71aeb6742897a3ad806b53e2, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8423131215839548590, guid: 1918be2c71aeb6742897a3ad806b53e2, type: 3}
       propertyPath: m_Size.y
@@ -3214,7 +3244,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6546779578891698087, guid: 1918be2c71aeb6742897a3ad806b53e2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 180748989}
   m_SourcePrefab: {fileID: 100100000, guid: 1918be2c71aeb6742897a3ad806b53e2, type: 3}
 --- !u!1001 &9222686892022452058
 PrefabInstance:
@@ -3231,6 +3264,10 @@ PrefabInstance:
     - target: {fileID: 8031622036879848742, guid: 26c2f2e9be04ee9458d3b4e5488840d0, type: 3}
       propertyPath: m_Name
       value: SailorMoon
+      objectReference: {fileID: 0}
+    - target: {fileID: 8031622036879848742, guid: 26c2f2e9be04ee9458d3b4e5488840d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9044419160110753595, guid: 26c2f2e9be04ee9458d3b4e5488840d0, type: 3}
       propertyPath: m_LocalPosition.x
